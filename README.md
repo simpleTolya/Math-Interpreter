@@ -1,3 +1,5 @@
+My first project in C.
+
 # Math-Interpreter
 
 This application is able to calculate the values ​​of any mathematical
